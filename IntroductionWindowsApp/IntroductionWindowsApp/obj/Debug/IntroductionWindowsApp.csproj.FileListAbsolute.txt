@@ -26,3 +26,6 @@ C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 04\Introductio
 C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 04\IntroductionWindowsApp\IntroductionWindowsApp\obj\Debug\IntroductionWindowsApp.Properties.Resources.resources
 C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 04\IntroductionWindowsApp\IntroductionWindowsApp\obj\Debug\IntroductionWindowsApp.StudentEntryUi.resources
 C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 04\IntroductionWindowsApp\IntroductionWindowsApp\obj\Debug\IntroductionWindowsApp.csproj.GenerateResource.Cache
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 06\SMS\IntroductionWindowsApp\IntroductionWindowsApp\bin\Debug\IntroductionWindowsApp.exe.config
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 06\SMS\IntroductionWindowsApp\IntroductionWindowsApp\obj\Debug\IntroductionWindowsApp.exe
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 06\SMS\IntroductionWindowsApp\IntroductionWindowsApp\obj\Debug\IntroductionWindowsApp.pdb
